@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
+    "url": "git+https://github.com/Brandon421-ops/alloy.git"
   },
   "keywords": [
     "proxy",
-    "titanium network",
+    "Brandon421-ops",
     "alloy",
     "alloyproxy",
     "web unblocker",
@@ -30,10 +30,10 @@
     "workplace",
     "web filter"
   ],
-  "author": "Titanium Network",
+  "author": "Brandon421-ops",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
+    "url": "https://github.com/Brandon421-ops/alloy/issues"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+  "homepage": "https://github.com/Brandon421-ops/alloy#readme"
 }
